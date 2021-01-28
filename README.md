@@ -1,4 +1,4 @@
 # ltc
-License Templates Collection
+#### License Templates Collection
 
-> Markdown formatted software License Templates Collection
+###### Markdown formatted Software License Templates Collection
